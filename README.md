@@ -1,6 +1,12 @@
 <div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jaeho%20world&fontSize=40&animation=fadeInout&descAlignY=60&descAlign=50&fontAlignY=40&fontColor=FFFFFF)
+  
+### 안녕하세요, 포기를 모르는 프론트엔드 주니어 개발자 이재호 입니다. 👋🏻
+  
+
+  
+</br> 
 
 ### 💻 Tech Stack 💻 
   
